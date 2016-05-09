@@ -102,7 +102,7 @@ Sorted
 
 curl -X GET -H "Content-type: application/json" -H "Accept: application/json" "http://localhost:8090/example/v1/dogs"
 
-curl -X GET -H "Content-type: application/json" -H "Accept: application/json" "http://localhost:8090/example/v1/dogs/breeds/greyhound"
+curl -X GET -H "Content-type: application/json" -H "Accept: application/json" "http://localhost:8090/example/v1/dogs/breeds/greyhound" 
 
 
 
